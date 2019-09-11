@@ -47,7 +47,15 @@ pip install -r requirements.txt
 serverless deploy
 ```
 
-Now you can test you chatbot, have fun!
+6. You may have like this domain
+
+![](https://i.imgur.com/XCiTkb7.png)
+
+7.  Copy and Paste domain in your LINE bot account
+
+![](https://i.imgur.com/nXFcseH.png)
+
+8. Now you can test you chatbot, have fun!
 ![Echo bot](https://i.imgur.com/Tn1XS13.png)
 
 # Author
