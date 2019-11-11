@@ -19,3 +19,4 @@ custom:
 plugins:
   - serverless-python-requirements
   - serverless-wsgi
+  - serverless-dotenv-plugin
