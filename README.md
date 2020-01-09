@@ -5,6 +5,8 @@ Welcome here!
 This is [aws-line-echo-bot](https://github.com/louis70109/aws-line-echo-bot) upgrade version,
 using serverless to build a line echo bot with WSGI.
 
+> Taiwan user can follow [my topic](https://nijialin.com/2019/11/02/%E7%BA%8C%E7%AF%87-%E2%80%94-serverless-WSGI-flask-chatbot-%E7%9A%84%E9%96%8B%E7%99%BC%E6%8C%87%E5%8D%97/)
+
 # Bebore you start
 
 1. Line developer account
